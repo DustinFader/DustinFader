@@ -22,7 +22,7 @@ I am currently looking for new opportunities as a full stack or front end develo
 </div>
   
 ## Currently Learning:
-  ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![]()
 
 # GitHub Stats
 <p align="center">
